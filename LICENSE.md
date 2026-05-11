@@ -1,4 +1,4 @@
-# 
+# Enhance Figma for macOS with Figma for macOS advanced Brushes: real-time preview & blend modes, the #1 brush. Includes real-time preview and blend modes for a smoother and more
 
 
 
